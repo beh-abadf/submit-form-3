@@ -1,0 +1,45 @@
+.end-body {
+    position: relative;
+    background: linear-gradient(53deg, rgba(0, 105, 255, 1) 27%, rgba(255, 0, 0, 1) 78%);
+    ;
+}
+
+.end-body {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head-style {
+    text-align: center;
+    font-family: 'Vazir';
+    size: 20px;
+    margin-bottom: 40px;
+}
+
+.font {
+    font-family: 'Vazir';
+}
+
+.form-control {
+    background: rgb(2, 0, 36);
+    margin-top: 10px;
+}
+
+.around-form {
+    width: 400;
+    height: auto;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.form-control>input {
+    width: 400px;
+
+}
